@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Estou no momento estudando na FATEC de Franca <br>no curso de análise e desenvolvimento de sistemas.<br>No programa de bolsas da compass uol na formação<br>de inteligência artificial para AWS.
+Estou no momento estudando na FATEC de Franca <br>no curso de análise e desenvolvimento de sistemas.<br>Cursando o programa de bolsas da compass uol na formação<br>de inteligência artificial para AWS.
 
 
 ## 🌐 Socials:
