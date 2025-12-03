@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá! Sou Marcelo Pereira, estudante de Análise e Desenvolvimento de Sistemas na FATEC Franca, com formação técnica em Eletrônica e experiência em Machine Learning e Cloud Computing através do programa de bolsas da Compass UOL, atuando com Inteligência Artificial e AWS.
+Olá! Sou Marcelo Pereira, Tecnólogo de Análise e Desenvolvimento de Sistemas, técnico em Eletrônica e com experiência em Machine Learning e Cloud Computing através do programa de bolsas da Compass UOL, atuando com Inteligência Artificial e AWS.
 <br>
 Sou apaixonado por tecnologia, desenvolvimento de software e soluções inovadoras, sempre em busca de aprender novas ferramentas e contribuir com projetos desafiadores.
 
