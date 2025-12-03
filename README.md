@@ -28,10 +28,6 @@ Sou apaixonado por tecnologia, desenvolvimento de software e soluções inovador
 -🔒 Cibersegurança
 
 -🧠 Processamento de Linguagem Natural (NLP)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MarjoDev&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarjoDev&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarjoDev&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MarjoDev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
