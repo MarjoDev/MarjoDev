@@ -1,7 +1,9 @@
 # 💫 Sobre mim:
 Olá! Sou Marcelo Pereira, Tecnólogo de Análise e Desenvolvimento de Sistemas, técnico em Eletrônica e com experiência em Machine Learning e Cloud Computing através do programa de bolsas da Compass UOL, atuando com Inteligência Artificial e AWS.
 <br>
-Sou apaixonado por tecnologia, desenvolvimento de software e soluções inovadoras, sempre em busca de aprender novas ferramentas e contribuir com projetos desafiadores.
+Também possuo conhecimento em Excel Intermediário, com experiência em criação de dashboards, tabelas dinâmicas, análise e visualização de dados, fórmulas avançadas e automação de relatórios.
+<br>
+Sou apaixonado por tecnologia, análise de dados, desenvolvimento de software e soluções inovadoras, sempre em busca de aprender novas ferramentas e contribuir com projetos desafiadores.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marcelo-pereira-a4055b287) 
@@ -22,6 +24,10 @@ Sou apaixonado por tecnologia, desenvolvimento de software e soluções inovador
 -🤖 Machine Learning & Inteligência Artificial
 
 -☁️ Cloud Computing (AWS)
+
+-📊 Análise e Visualização de Dados
+
+-📈 Dashboards e Business Intelligence
 
 -🌐 Desenvolvimento Web Full Stack
 
