@@ -122,8 +122,3 @@ Sou apaixonado por tecnologia, dados e soluções inteligentes, sempre buscando 
 - 🧠 Processamento de Linguagem Natural (NLP)
 
 ---
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=MarjoDev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-```
